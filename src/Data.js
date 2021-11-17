@@ -27,7 +27,7 @@ function Data() {
       <div>
         <img
           alt={asin}
-          src={`//images.amazon.com/images/P/${asin}.01.LZ.jpg`}
+          src={`http://images.amazon.com/images/P/${asin}.01.LZ.jpg`}
         />
       </div>
     </>
