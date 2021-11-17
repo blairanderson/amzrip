@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Routes, Route, Link, useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 
 export default Data;
 
